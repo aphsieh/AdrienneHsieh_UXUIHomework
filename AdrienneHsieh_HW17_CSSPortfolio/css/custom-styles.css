@@ -1,0 +1,75 @@
+.navbar-dark .navbar-brand {
+  color: black;
+}
+
+
+a {
+  color: black;
+  font-family: "Muli";
+}
+
+.display-4 {
+  color: black;
+}
+
+.my-4 {
+  color: black;
+}
+
+h1 {
+  font-family: "Muli";
+}
+
+.h3, h3 {
+  color: #9cb3c7;
+  
+}
+
+.display-5 {
+  color: White;
+  font-size: 50px;
+  font-family: "Muli";
+
+}
+
+.jumbotron-fluid {
+background-color: white;
+color: #9cb3c7;
+}
+
+
+
+body {
+    padding-top: 54px;
+  }
+  
+  header .welcome {
+    margin-top: 3em;
+  }
+
+  .btn-primary {
+    background-color: white;
+    border-color: black;
+    color: black;
+  }
+
+  .btn-primary:hover, .btn-primary:focus, .btn-primary:active, .btn-primary.active, .open>.dropdown-toggle.btn-primary {
+    color: #9cb3c7;
+    background-color: whitesmoke;
+    border-color: #285e8e; /*set the color you want here*/
+}
+  
+  @media (min-width: 992px) {
+    body {
+      padding-top: 56px;
+    }
+  }
+  
+  .card {
+    height: 100%;
+  }
+
+  
+  /*!
+   * Copyright 2018 Trilogy Education
+   */
